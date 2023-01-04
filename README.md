@@ -1,7 +1,8 @@
-# 你好！ 👋
+# Hi there! 👋
+## I'm [littlekan233](https://github.com/littlekan233). 😃
 
 <!--
-**littlekan-gitee/littlekan-gitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**littlekan233/littlekan233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 我是小阚
-### 👦 我是个11岁的学生
-### 😑 不常在线于GitHub
-### 我的账号：
-#### 📺 [Bilibili](https://space.bilibili.com/2091734682)
-#### 🦊 [GitLab](https://gitlab.com/littlekan)
-#### 🐧 [QQ](https://user.qzone.qq.com/1952839455)
+My blog: https://www.littlekan.ml/
 
-# 这是我的状态：
-<img alt="My status" id="stat1" src="https://github-readme-stats.vercel.app/api?username=littlekan233&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" height="150px" /><img alt="My top languages" id="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlekan233&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" height="150px" />
+> Sponsor me!
+> https://afdian.net/a/littlekan233
+
+----------------------------------
+
+🌱 I'm currently learning C++, Python
+
+💻 I'm currently developing [Redstone Craft Website](https://github.com/RedstoneCraftTeam/rscraft-site). [\<click me to visit\>](https://www.rscraft.cf)
+
+## My status
+
+![littlekan233-github-status](https://github-readme-stats.vercel.app/api?username=littlekan233&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&locale=cn)
+![littlekan233-github-toplangs](https://github-readme-stats.vercel.app/api/top-langs?username=littlekan233&layout=compact&theme=vue-dark&locale=cn)
